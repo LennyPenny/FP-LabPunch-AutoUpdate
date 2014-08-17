@@ -9,8 +9,3 @@
 // @version       1.0
 // ==/UserScript==
 
-this.$ = this.jQuery = jQuery.noConflict(true);
-$(document).ready(function()
-{
-	alert("jQuery is loaded");
-});
